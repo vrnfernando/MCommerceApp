@@ -69,7 +69,7 @@ This includes setting up the project, implementing core functionality, local per
 
 | Product List | Product Detail | Cart |
 |-----------|-------------|--------|
-| ![](screenshots/list.png) | ![](screenshots/detail.png) | ![](screenshots/Cart.png) |
+| ![Simulator Screen Shot - Clone 1 of iPhone 14 Pro - 2025-06-29 at 23 16 48](https://github.com/user-attachments/assets/15d69fc7-a917-480a-95c3-91731b40d788) | ![Simulator Screen Shot - Clone 1 of iPhone 14 Pro - 2025-06-29 at 23 17 50](https://github.com/user-attachments/assets/46542b8a-204f-46a6-a899-186faf3f6345) | ![Simulator Screen Shot - Clone 1 of iPhone 14 Pro - 2025-06-29 at 23 18 52](https://github.com/user-attachments/assets/cb221461-578a-47c4-909a-06b6ab34077a) |
 
 ---
 
