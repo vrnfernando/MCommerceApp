@@ -67,9 +67,9 @@ This includes setting up the project, implementing core functionality, local per
 
 ## 📸 Screenshots
 
-| User List | User Detail | Search |
+| Product List | Product Detail | Cart |
 |-----------|-------------|--------|
-| ![](screenshots/list.png) | ![](screenshots/detail.png) | ![](screenshots/search.png) |
+| ![](screenshots/list.png) | ![](screenshots/detail.png) | ![](screenshots/Cart.png) |
 
 ---
 
